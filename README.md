@@ -20,7 +20,8 @@ The **Ai Trip Planner App** is a mobile application built using **React Native**
 ### Prerequisites
 Ensure you have the following installed:
 - **Node.js** (version 14 or higher)
-- **React Native CLI** (if not using Expo)
+- **React Native CLI** (if not using Expo)![Screenshot 2025-01-08 154207](https://github.com/user-attachments/assets/b8d631fb-33b6-41b7-9497-d946ec394fb2)
+
 - **Firebase account** for project setup
 - **Android Studio** and/or **Xcode** for testing on mobile devices
 
